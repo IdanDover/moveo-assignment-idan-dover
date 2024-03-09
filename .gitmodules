@@ -1,0 +1,6 @@
+[submodule "moveo-project-back"]
+	path = moveo-project-back
+	url = https://github.com/IdanDover/moveo-project-back.git
+[submodule "moveo-project"]
+	path = moveo-project
+	url = https://github.com/IdanDover/moveo-project.git
